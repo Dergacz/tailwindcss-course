@@ -1,5 +1,6 @@
 {
   "name": "tailwind",
+  "homepage": "https://dergacz.github.io/tailwindcss-course",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
